@@ -1,0 +1,25 @@
+body {
+  font-family: 'calibri', calibri, sans-serif;
+  font-weight: 700;
+  background-image: url(newbg.jpg);
+  background-repeat: repeat;
+}
+#wrapper {
+  width: 960px;
+  margin: 20px auto 20px auto;
+}
+#wrapperb {
+  background: white;
+  opacity: 0.6;
+  width: 960px;
+  margin: 20px auto 20px auto;
+  padding: 10px;
+  border-radius: 25px;
+}
+
+
+img {
+  height: 300px;
+  width: 300px;
+  border-radius: 25px;
+}
