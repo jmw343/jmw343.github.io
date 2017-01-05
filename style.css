@@ -15,11 +15,12 @@ body {
   margin: 20px auto 20px auto;
   padding: 10px;
   border-radius: 25px;
+  box-shadow: 7px 7px 10px grey;
 }
 
 h1 {
   text-align: center;
-  
+
 }
 img {
   height: 300px;
