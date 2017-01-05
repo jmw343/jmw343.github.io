@@ -20,9 +20,9 @@ body {
 
 h1 {
   text-align: center;
-
 }
-img {
+
+#pic {
   height: 300px;
   width: 300px;
   border-radius: 25px;
